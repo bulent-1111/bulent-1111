@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and Data Science Tools
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -> akuklubulent@gmail.com
 
 <!---
 bulent-1111/bulent-1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
