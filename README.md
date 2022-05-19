@@ -1,67 +1,19 @@
-
-
-
-
-
-DE-DS Cohort-01 durchsuchen
-
-
-
-
-
-12
-1
-
-17
-2
-
-3
-
-D
-4
-
-5
-
-
-DE-DS Cohort-01
-
-
-
-
-
-
-
-
-
-
-karrierestation
-
-
-karrierestation
-
-
-
-
-15
-Verlauf wird geladen ...
-
-
-Evren-Mentor  12:57 Uhr
-<div> <h1 align="center"> Evren Arslan </h1> </div>
-<p>- Interested in Data Science </p>
+<div> <h1 align="center"> Bülent </h1> </div>
+<p>- Interested in Data Science <Bülent/p>
 <p>- Currently working on Machine Learning </p>
 <p>- Lifetime learner and nowadays he learns Azure Data Science and Databricks Spark Apache </p>
 <p>- Honored to share his experience and knowledge with everone and always be eager to learn </p>
-<p>- 📫 How to reach evrenarslan@gmx.de</p>
+<p>- 📫 How to reach akuklu@yahoo.com</p>
 
 <div> <h1 align="center"> SOCIAL PLATFORMS </h1> 
 <p align="center">
 <a href="https://https:/www.linkedin.com/in/b%C3%BClent-akuklu-4292a1223/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:earslan4e@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <!--
 <a href="https://medium.com/@arslanevren"><img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" /></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=bulent-1111" alt="bulent-1111" height="28"/></a>
 </p></div>
-
+-->
 <div align="center"> <h1 align="center"> DATA VISUALIZATION </h1> </div>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://github.com/bulent-1111/bulent-1111/blob/main/icons/pngegg%20(1).png"/> </a> 
@@ -111,33 +63,4 @@ Evren-Mentor  12:57 Uhr
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bulent-1111&repo=HandsOn&theme=algolia" />
 </a>
 </p>
-  
-weißes_häkchen
-augen
-erhobene_hände
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Eine Nachricht an karrierestation senden
-
-
-
-
-
-
-
-
-Umschalttaste + Eingabetaste zum Hinzufügen einer neuen Zeile
+ 
